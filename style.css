@@ -1,0 +1,121 @@
+body
+{
+    text-align:center;
+    background-size: 500px;
+    font-family: "Dosis", sans-serif;
+    color: white;
+}
+
+.my_nav_bar
+{
+    position:fixed;
+    top:0px;
+    margin-top:0px;
+    z-index:99999;
+    /* cursor:pointer; */
+    width:100%;;
+}
+
+.menu
+{
+    position:fixed;
+    top:0px;
+    margin-top:10px;
+    cursor:pointer;
+    width:100%;
+    color: lightskyblue;
+}
+
+.links
+{
+    font-size:20px;
+    font-family:fantasy;       
+    padding-right:25px;
+    padding-left:33px;
+    display:inline;
+    width:100%;
+    height:800px;
+}
+
+#homeline 
+{
+    height: 6px;
+    background-color:white;
+    width: 750px;
+    margin: 8px auto;
+}
+
+.line
+{
+    height: 2px;
+    background-color:white;
+    width: 1100px;
+    margin: 8px auto;
+}
+
+#heading
+{
+    margin-top: 75px;  
+}
+
+#exoplanet
+{
+    width:800px;
+}
+
+#exoplanet2
+{
+    width:300px;
+}
+
+#info
+{
+    margin-left:80px;
+    margin-right:80px;
+    text-align:left;
+}
+
+#five
+{
+    text-align:left;
+    margin-left:100px;
+}
+
+.text
+{
+    padding-left:20px;
+}
+
+.container
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#typeinfo
+{
+    margin-left:10px;
+    margin-right:10px;
+    text-align:left;
+}
+
+#exoplanet3
+{
+    width:350px;
+}
+
+#bigline
+{
+    height:10px;
+}
+
+.footer
+{
+    font-size: 20px;
+}
+
+video{
+    width: 400px;
+    height: auto;
+}
